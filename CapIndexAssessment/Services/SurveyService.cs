@@ -2,7 +2,6 @@
 using CapIndexAssessment.DTOs;
 using CapIndexAssessment.Entities;
 using Microsoft.EntityFrameworkCore;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace CapIndexAssessment.Services
 {
