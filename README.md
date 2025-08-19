@@ -15,7 +15,7 @@ CapIndexAssessment is a .NET 8 Web API for creating, managing, and responding to
 ## How to Run the API
 
 1. **Clone the repository:**
-git clone <your-repo-url> CapIndexAssessment
+git clone https://github.com/michaelvazquez888/CapIndexAssessment.git
 
 2. **Build the solution:**
 dotnet build
